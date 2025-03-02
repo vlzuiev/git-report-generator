@@ -1,0 +1,8 @@
+.history
+
+.venv
+__pycache__/
+
+.env
+
+reports
